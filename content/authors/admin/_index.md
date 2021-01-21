@@ -24,13 +24,13 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: University of British Columbia
-      year: 2020
+      year: ""
     - course: MSc in Computer Science
       institution: University of Padua
-      year: ""
+      year: 2020
     - course: BSc in Computer Science
       institution: University of Padua
-      year: 2015
+      year: 2018
 email: ""
 superuser: true
 highlight_name: false
