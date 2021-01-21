@@ -2,11 +2,12 @@
 title: Matteo Rizzo
 role: "PhD Student in Computer Science "
 avatar_filename: avatar.png
-bio: My research interests include deep-learning, XAI and HCI.
+bio: My research interests include Deep Learning (DL), Explainable Artificial
+  Intelligence (XAI) and Human-Computer Interaction (HCI).
 interests:
-  - Deep-learning
-  - XAI
-  - HCI
+  - Deep Learning (DL)
+  - Explainable Artificial Intelligence (XAI)
+  - Human-Computer Interaction (HCI)
 social:
   - icon: envelope
     icon_pack: fas
