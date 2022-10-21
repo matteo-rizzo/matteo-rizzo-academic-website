@@ -20,8 +20,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/matteo-rizzo/
 organizations:
-  - name: University of British Columbia
-    url: https://www.ubc.ca/
+  - name: Ca' Foscari University
+    url: https://www.unive.it/
 education:
   courses:
     - course: PhD in Computer Science
