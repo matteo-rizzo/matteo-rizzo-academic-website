@@ -8,6 +8,7 @@ interests:
   - Deep Learning (DL)
   - Explainable Artificial Intelligence (XAI)
   - Human-Computer Interaction (HCI)
+  - DL applied to agriculture
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,8 +25,11 @@ organizations:
 education:
   courses:
     - course: PhD in Computer Science
+      institution: Ca' Foscari University
+      year: "present"
+    - course: PhD in Computer Science (interrupted due to health issues)
       institution: University of British Columbia
-      year: ""
+      year: "2022"
     - course: MSc in Computer Science
       institution: University of Padua
       year: 2020
@@ -36,4 +40,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a PhD Student in Computer Science at the [University of British Columbia (UBC)](www.ubc.ca). Previously, I obtained a BSc and an MSc in Computer Science at the [University of Padua](https://www.unipd.it/) (both summa cum laude).
+I am a PhD Student in Computer Science at [Ca' Foscari University ]([www.ubc.ca](https://www.unive.it/)). Previously, I worked on DL interpretability at the University of British Columnia. Unfortunately, I had to interrupt the that PhD path due to health issues. I obtained a BSc and an MSc in Computer Science at the [University of Padua](https://www.unipd.it/) (both summa cum laude).
