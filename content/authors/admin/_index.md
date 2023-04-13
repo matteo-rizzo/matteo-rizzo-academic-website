@@ -40,4 +40,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a PhD Student in Computer Science at [Ca' Foscari University ]([www.ubc.ca](https://www.unive.it/)). Previously, I worked on DL interpretability at the University of British Columnia. Unfortunately, I had to interrupt the that PhD path due to health issues. I obtained a BSc and an MSc in Computer Science at the [University of Padua](https://www.unipd.it/) (both summa cum laude).
+I am a PhD Student in Computer Science at [Ca' Foscari University](https://www.unive.it/). Previously, I worked on DL explainability at the [University of British Columbia](https://www.ubc.ca/). Unfortunately, I had to interrupt the that PhD path due to health issues. I obtained a BSc and an MSc in Computer Science at the [University of Padua](https://www.unipd.it/) (both summa cum laude), where I was a member of the [VIMP research group](http://vimp.math.unipd.it/).
