@@ -20,8 +20,7 @@ social:
     link: https://www.linkedin.com/in/matteo-rizzo/
 organizations:
   - name: Ca' Foscari University
-  - url: https://www.unive.it/
-  - name: PIVA: 05508640280
+    url: https://www.unive.it/
 education:
   courses:
     - course: PhD in Computer Science
